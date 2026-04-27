@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="47.06" viewBox="0 0 53 47.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(0 0)">
+      <rect class="cls-1" width="53" height="47.06"/>
+    </clipPath>
+  </defs>
+  <title>L5</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g class="cls-2">
+          <path class="cls-3" d="M3,3H19.11V19.11H3ZM0,22.11H22.11V0H0Z" transform="translate(0 0)"/>
+          <path class="cls-3" d="M33.89,28H50V44.06H33.89Zm-3,19.11H53V25H30.89Z" transform="translate(0 0)"/>
+        </g>
+        <g class="cls-2">
+          <g class="cls-2">
+            <path class="cls-3" d="M12.55,24.61a1.5,1.5,0,0,0-3,0v.5a1.5,1.5,0,0,0,3,0Z" transform="translate(0 0)"/>
+            <path class="cls-3" d="M11.05,28.41a1.5,1.5,0,0,0-1.5,1.5v.8a1.5,1.5,0,0,0,3,0v-.8a1.5,1.5,0,0,0-1.5-1.5" transform="translate(0 0)"/>
+            <path class="cls-3" d="M11.05,34a1.51,1.51,0,0,0-1.5,1.5V36a1.5,1.5,0,0,0,1.5,1.5h.5a1.5,1.5,0,0,0,.79-2.78A1.52,1.52,0,0,0,11.05,34" transform="translate(0 0)"/>
+            <path class="cls-3" d="M23,34.5h-.82a1.5,1.5,0,0,0,0,3H23a1.5,1.5,0,0,0,0-3" transform="translate(0 0)"/>
+            <path class="cls-3" d="M17.27,34.5h-.81a1.5,1.5,0,0,0,0,3h.81a1.5,1.5,0,0,0,0-3" transform="translate(0 0)"/>
+            <path class="cls-3" d="M28.39,34.5h-.5a1.5,1.5,0,0,0,0,3h.5a1.5,1.5,0,0,0,0-3" transform="translate(0 0)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

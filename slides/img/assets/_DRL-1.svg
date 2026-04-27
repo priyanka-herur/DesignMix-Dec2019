@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1609.3 792.6" style="enable-background:new 0 0 1609.3 792.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:11.98,11.98;}
+	.st2{fill:#2F005C;}
+	.st3{fill:#FFFFFF;}
+	.st4{clip-path:url(#SVGID_2_);}
+	.st5{clip-path:url(#SVGID_4_);}
+	.st6{clip-path:url(#SVGID_6_);}
+	.st7{clip-path:url(#SVGID_8_);}
+	.st8{clip-path:url(#SVGID_10_);}
+	.st9{clip-path:url(#SVGID_12_);}
+	.st10{clip-path:url(#SVGID_14_);}
+	.st11{clip-path:url(#SVGID_16_);}
+	.st12{clip-path:url(#SVGID_18_);}
+	.st13{clip-path:url(#SVGID_20_);}
+	.st14{clip-path:url(#SVGID_22_);}
+	.st15{clip-path:url(#SVGID_24_);}
+	.st16{clip-path:url(#SVGID_26_);}
+	.st17{clip-path:url(#SVGID_28_);}
+	.st18{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st19{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st20{font-family:'AdobeClean-Light';}
+	.st21{font-size:24px;}
+	.st22{font-family:'AdobeClean-Regular';}
+	.st23{font-size:12px;}
+</style>
+<title>DRL-1</title>
+<line class="st0" x1="80.5" y1="279.2" x2="86.5" y2="279.2"/>
+<line class="st1" x1="98.5" y1="279.2" x2="1506.5" y2="279.2"/>
+<line class="st0" x1="1512.5" y1="279.2" x2="1518.5" y2="279.2"/>
+<ellipse class="st2" cx="82" cy="278.5" rx="80" ry="80.5"/>
+<path class="st3" d="M82,200c43.1,0,78,35.1,78,78.5S125.1,357,82,357S4,321.9,4,278.5S38.9,200,82,200 M82,196
+	c-45.2,0-82,37-82,82.5S36.8,361,82,361s82-37,82-82.5S127.2,196,82,196z"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="55.5" y="252.1" width="53" height="52.8"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st4">
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_3_" x="55.5" y="252.1" width="53" height="52.8"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st5">
+						<path class="st3" d="M100.3,262.2c-1.8-5.9-8.5-10-16.4-10c-7.8,0-14.4,4-16.3,9.7c-6.1-0.5-11.5,4-12,10.1s4,11.5,10.1,12
+							c0.3,0,0.6,0,0.9,0c0.9,0,1.7-0.1,2.5-0.3c1.2,0.9,2.6,1.6,4,2.2c0,0.2,0,0.3,0,0.5c0.1,3.9,3.3,6.9,7.1,6.9
+							c3.3-0.1,6.1-2.4,6.7-5.6c4-0.3,8-1.6,11.4-3.8c6.1-0.5,10.6-5.9,10.1-12C108.1,267.3,104.8,263.4,100.3,262.2 M80.1,290.8
+							c-2.3,0-4.3-1.8-4.5-4.1c0-0.1,0-0.2,0-0.4c0-0.9,0.3-1.8,0.8-2.5c1.4-2.1,4.2-2.6,6.3-1.2c0.8,0.5,1.4,1.3,1.7,2.2
+							c0.2,0.5,0.3,1,0.3,1.5s-0.1,1-0.3,1.5C83.7,289.6,82,290.8,80.1,290.8 M97.8,280.9l-0.8,0.3c-3,2-6.4,3.2-10,3.4
+							c-0.9-3.8-4.7-6.1-8.5-5.1c-1.9,0.5-3.5,1.7-4.5,3.5c-1.3-0.5-2.5-1.2-3.5-2.1l-1.5-0.3c-0.8,0.3-1.6,0.4-2.4,0.4
+							c-4.5,0.1-8.2-3.5-8.3-7.9s3.5-8.2,7.9-8.3c0.7,0,1.4,0.1,2.1,0.2l1.8-1.2c1-4.9,6.9-8.6,13.7-8.6s12.7,3.7,13.7,8.6l1.2,1.2
+							c4.4,0.9,7.2,5.2,6.3,9.5C104.4,278,101.4,280.7,97.8,280.9"/>
+						<path class="st3" d="M71.4,292.8c-3.3,0-6.1,2.7-6.1,6.1c0,3.3,2.7,6.1,6.1,6.1c3.3,0,6.1-2.7,6.1-6.1l0,0
+							C77.5,295.5,74.8,292.8,71.4,292.8 M67.9,298.8c0-2,1.6-3.6,3.6-3.6s3.6,1.6,3.6,3.6s-1.6,3.6-3.6,3.6l0,0
+							C69.5,302.4,67.9,300.8,67.9,298.8"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<ellipse class="st2" cx="370.2" cy="278.5" rx="80" ry="80.5"/>
+<path class="st3" d="M370.2,200c43.1,0,78,35.1,78,78.5s-34.9,78.5-78,78.5s-78-35.1-78-78.5S327.1,200,370.2,200 M370.2,196
+	c-45.2,0-82,37-82,82.5s36.8,82.5,82,82.5s82-37,82-82.5S415.4,196,370.2,196z"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="352.7" y="251.5" width="35" height="54"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st6">
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_7_" x="352.7" y="251.5" width="35" height="54"/>
+					</defs>
+					<clipPath id="SVGID_8_">
+						<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st7">
+						<g>
+							<g>
+								<defs>
+									<rect id="SVGID_9_" x="352.7" y="251.5" width="35" height="54"/>
+								</defs>
+								<clipPath id="SVGID_10_">
+									<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+								</clipPath>
+								<g class="st8">
+									<path class="st3" d="M360.2,270.5c-0.8,0-1.5-0.7-1.5-1.5c0-6.3,5.2-11.5,11.5-11.5c0.8,0,1.5,0.7,1.5,1.5
+										s-0.7,1.5-1.5,1.5c-4.7,0-8.5,3.8-8.5,8.5C361.7,269.8,361,270.5,360.2,270.5"/>
+									<path class="st3" d="M370.2,305.5c-5.3,0-9.5-4.3-9.5-9.5v-8.1c-0.1-2.4-1.1-4.7-2.8-6.3c-6.9-6.8-6.9-17.9-0.1-24.7
+										c6.8-6.9,17.9-6.9,24.7-0.1c6.9,6.8,6.9,17.9,0.1,24.7l-0.1,0.1c-1.7,1.6-2.7,3.9-2.8,6.3v8.1
+										C379.7,301.3,375.5,305.5,370.2,305.5 M370.2,254.5c-8.1,0.1-14.5,6.6-14.5,14.7c0,3.8,1.6,7.5,4.3,10.2
+										c2.3,2.2,3.6,5.2,3.7,8.4v8.1c0,3.6,2.9,6.5,6.5,6.5s6.5-2.9,6.5-6.5v-8.1c0-3.2,1.4-6.2,3.7-8.4c5.7-5.7,5.7-14.9,0-20.6
+										C377.7,256.1,374,254.6,370.2,254.5"/>
+									<path class="st3" d="M378.2,290.5h-16c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5h16c0.8,0,1.5,0.7,1.5,1.5
+										S379,290.5,378.2,290.5"/>
+									<path class="st3" d="M371,296.5h-8c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5h8c0.8,0,1.5,0.7,1.5,1.5S371.8,296.5,371,296.5
+										"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<ellipse class="st2" cx="658.4" cy="278.5" rx="80" ry="80.5"/>
+<path class="st3" d="M658.4,200c43.1,0,78,35.1,78,78.5s-34.9,78.5-78,78.5s-78-35.1-78-78.5S615.3,200,658.4,200 M658.4,196
+	c-45.2,0-82,37-82,82.5s36.8,82.5,82,82.5s82-37,82-82.5S703.6,196,658.4,196z"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_11_" x="636.2" y="256.5" width="44.4" height="44.1"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st9">
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_13_" x="636.2" y="256.5" width="44.4" height="44.1"/>
+					</defs>
+					<clipPath id="SVGID_14_">
+						<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st10">
+						<path class="st3" d="M640.2,286l-4,12.5c-0.3,0.8,0.2,1.8,1,2c0.2,0,0.3,0.1,0.5,0.1s0.3,0,0.5-0.1l11.9-3.6l21.9-21.7
+							l-10.5-10.5L640.2,286z M667.8,275.1l-19.3,19.1l-8.6,2.6l2.9-9.2l18.7-18.7L667.8,275.1z"/>
+						<path class="st3" d="M680.1,265l-8-8c-0.3-0.3-0.8-0.5-1.2-0.5l0,0c-0.5,0-0.9,0.2-1.3,0.6l-5.7,5.7l10.5,10.5l5.7-5.7
+							c0.3-0.3,0.5-0.8,0.5-1.2C680.7,265.8,680.5,265.4,680.1,265"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<ellipse class="st2" cx="946.6" cy="278.5" rx="80" ry="80.5"/>
+<path class="st3" d="M946.6,200c43.1,0,78,35.1,78,78.5s-34.9,78.5-78,78.5s-78-35.1-78-78.5S903.5,200,946.6,200 M946.6,196
+	c-45.2,0-82,37-82,82.5s36.8,82.5,82,82.5s82-37,82-82.5S991.8,196,946.6,196z"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_15_" x="920.1" y="252" width="53" height="53"/>
+		</defs>
+		<clipPath id="SVGID_16_">
+			<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st11">
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_17_" x="920.1" y="252" width="53" height="53"/>
+					</defs>
+					<clipPath id="SVGID_18_">
+						<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st12">
+						<path class="st3" d="M946.6,270.5c-4.4,0-8,3.6-8,8s3.6,8,8,8s8-3.6,8-8S951,270.5,946.6,270.5 M946.6,283.5c-2.8,0-5-2.2-5-5
+							s2.2-5,5-5s5,2.2,5,5S949.4,283.5,946.6,283.5"/>
+						<path class="st3" d="M971.6,277h-5.7c-0.1-1.6-0.5-3.2-1-4.7l5.2-2.2c0.8-0.2,1.2-1.1,1-1.9s-1.1-1.2-1.9-1
+							c-0.1,0-0.2,0.1-0.3,0.1l-5.2,2.2c-0.7-1.3-1.5-2.5-2.5-3.6l4-4c0.6-0.6,0.6-1.5,0-2.1s-1.5-0.6-2.1,0l-4,4
+							c-1.2-1-2.6-1.9-4-2.6l2.1-5.3c0.3-0.8-0.1-1.6-0.8-2c-0.8-0.3-1.6,0.1-2,0.8l-2.1,5.3c-1.4-0.4-2.8-0.7-4.3-0.8v-5.7
+							c0-0.8-0.7-1.5-1.5-1.5s-1.5,0.7-1.5,1.5v5.7c-1.6,0.1-3.2,0.5-4.7,1l-2.2-5.2c-0.3-0.8-1.2-1.1-2-0.8s-1.1,1.2-0.8,2l2.2,5.2
+							c-1.3,0.7-2.5,1.5-3.6,2.4l-4-4c-0.6-0.6-1.5-0.6-2.1,0s-0.6,1.5,0,2.1l4,4c-1,1.2-1.9,2.6-2.7,4l-5.2-2.1
+							c-0.8-0.3-1.6,0.1-2,0.8c-0.3,0.8,0.1,1.6,0.8,1.9l5.3,2.1c-0.4,1.4-0.7,2.8-0.8,4.3h-5.7c-0.8,0-1.5,0.7-1.5,1.5
+							s0.7,1.5,1.5,1.5h5.7c0.1,1.6,0.5,3.2,1,4.7L923,287c-0.8,0.3-1.1,1.2-0.8,2s1.2,1.1,2,0.8l0,0l5.2-2.2
+							c0.7,1.3,1.5,2.5,2.5,3.6l-4,4c-0.6,0.6-0.6,1.5-0.1,2.1c0.6,0.6,1.5,0.6,2.1,0.1c0,0,0.1,0,0.1-0.1l4-4c1.2,1,2.6,1.9,4,2.6
+							l-2.1,5.3c-0.3,0.8,0,1.6,0.8,2c0,0,0,0,0.1,0c0.2,0.1,0.4,0.1,0.5,0.1c0.6,0,1.2-0.4,1.4-1l2.1-5.4c1.4,0.4,2.8,0.7,4.3,0.8
+							v5.7c0,0.8,0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5v-5.7c1.6-0.1,3.2-0.5,4.7-1l2.2,5.2c0.2,0.6,0.8,0.9,1.4,0.9c0.2,0,0.4,0,0.6-0.1
+							c0.8-0.3,1.1-1.2,0.8-2l0,0l-2.2-5.2c1.3-0.7,2.5-1.5,3.6-2.5l4,4c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.2,1.1-0.4
+							c0.6-0.6,0.6-1.5,0-2.1l-4-4c1-1.2,1.9-2.6,2.7-4l5.3,2.1c0.2,0.1,0.4,0.1,0.6,0.1c0.8,0,1.5-0.7,1.5-1.5
+							c0-0.6-0.4-1.2-0.9-1.4l-5.3-2.1c0.4-1.4,0.7-2.8,0.8-4.3h5.7c0.8,0,1.5-0.7,1.5-1.5S972.4,276.9,971.6,277 M946.6,294.8
+							c-9,0-16.4-7.4-16.4-16.4s7.4-16.4,16.4-16.4s16.4,7.4,16.4,16.4l0,0C963,287.5,955.7,294.9,946.6,294.8"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<ellipse class="st2" cx="1523" cy="278.5" rx="80" ry="80.5"/>
+<path class="st3" d="M1523,200c43.1,0,78,35.1,78,78.5s-34.9,78.5-78,78.5s-78-35.1-78-78.5S1479.9,200,1523,200 M1523,196
+	c-45.2,0-82,37-82,82.5s36.8,82.5,82,82.5s82-37,82-82.5S1568.2,196,1523,196z"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_19_" x="1499.7" y="261.1" width="46.7" height="34.9"/>
+		</defs>
+		<clipPath id="SVGID_20_">
+			<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st13">
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_21_" x="1499.7" y="261.1" width="46.7" height="34.9"/>
+					</defs>
+					<clipPath id="SVGID_22_">
+						<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st14">
+						<path class="st3" d="M1515.5,295.9c-1.1,0-2.1-0.4-2.8-1.2l-11.8-11.8c-1.6-1.6-1.6-4.1,0-5.7s4.1-1.6,5.7,0l9,9l24-24
+							c1.6-1.5,4.1-1.5,5.7,0.1c1.5,1.5,1.5,4,0,5.5l-26.9,26.9C1517.5,295.6,1516.5,296,1515.5,295.9"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<ellipse class="st2" cx="1234.8" cy="278.5" rx="80" ry="80.5"/>
+<path class="st3" d="M1234.8,200c43.1,0,78,35.1,78,78.5s-34.9,78.5-78,78.5s-78-35.1-78-78.5S1191.7,200,1234.8,200 M1234.8,196
+	c-45.2,0-82,37-82,82.5s36.8,82.5,82,82.5s82-37,82-82.5S1280,196,1234.8,196z"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_23_" x="1208.3" y="255" width="53" height="47.1"/>
+		</defs>
+		<clipPath id="SVGID_24_">
+			<use xlink:href="#SVGID_23_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st15">
+			<path class="st3" d="M1211.3,258h16.1v16.1h-16.1V258z M1208.3,277.1h22.1V255h-22.1V277.1z"/>
+			<path class="st3" d="M1242.2,282.9h16.1V299h-16.1V282.9z M1239.2,302h22.1v-22.1h-22.1V302z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_25_" x="1208.3" y="255" width="53" height="47.1"/>
+		</defs>
+		<clipPath id="SVGID_26_">
+			<use xlink:href="#SVGID_25_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st16">
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_27_" x="1208.3" y="255" width="53" height="47.1"/>
+					</defs>
+					<clipPath id="SVGID_28_">
+						<use xlink:href="#SVGID_27_"  style="overflow:visible;"/>
+					</clipPath>
+					<g class="st17">
+						<path class="st3" d="M1220.8,279.6c0-0.8-0.7-1.5-1.5-1.5s-1.5,0.7-1.5,1.5v0.5c0,0.8,0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5V279.6z
+							"/>
+						<path class="st3" d="M1219.3,283.4c-0.8,0-1.5,0.7-1.5,1.5v0.8c0,0.8,0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5v-0.8
+							C1220.8,284.1,1220.2,283.4,1219.3,283.4"/>
+						<path class="st3" d="M1219.3,289c-0.8,0-1.5,0.7-1.5,1.5v0.5c0,0.8,0.7,1.5,1.5,1.5h0.5c0.8,0,1.5-0.7,1.5-1.5
+							c0-0.5-0.3-1-0.7-1.3C1220.4,289.3,1219.9,289,1219.3,289"/>
+						<path class="st3" d="M1231.3,289.5h-0.8c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5h0.8c0.8,0,1.5-0.7,1.5-1.5
+							S1232.1,289.5,1231.3,289.5"/>
+						<path class="st3" d="M1225.6,289.5h-0.8c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5h0.8c0.8,0,1.5-0.7,1.5-1.5
+							S1226.4,289.5,1225.6,289.5"/>
+						<path class="st3" d="M1236.7,289.5h-0.5c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5h0.5c0.8,0,1.5-0.7,1.5-1.5
+							S1237.5,289.5,1236.7,289.5"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<line class="st18" x1="81" y1="19.7" x2="81" y2="199.7"/>
+<circle class="st19" cx="81" cy="16.2" r="7"/>
+<line class="st18" x1="1523.5" y1="542.2" x2="1523.5" y2="362.2"/>
+<circle class="st19" cx="1523.5" cy="540.6" r="7"/>
+<line class="st18" x1="658.5" y1="17.7" x2="658.5" y2="197.7"/>
+<circle class="st19" cx="658.5" cy="14.2" r="7"/>
+<line class="st18" x1="947.5" y1="537.2" x2="947.5" y2="357.2"/>
+<circle class="st19" cx="947.5" cy="540.6" r="7"/>
+<line class="st18" x1="1234.5" y1="19.7" x2="1234.5" y2="199.7"/>
+<circle class="st19" cx="1234.5" cy="16.2" r="7"/>
+<line class="st18" x1="370.5" y1="537.2" x2="370.5" y2="357.2"/>
+<circle class="st19" cx="370.5" cy="540.6" r="7"/>
+<g>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 103.87 21.74)" class="st3 st20 st21">L1: </text>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 136.55 21.7971)" class="st3 st20 st21">B</text>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 151.34 21.8228)" class="st3 st20 st21">asic </text>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 196.27 21.9014)" class="st3 st20 st21">C</text>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 210.49 21.926)" class="st3 st20 st21">once</text>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 256.56 22.0151)" class="st3 st20 st21">p</text>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 269.36 22.0393)" class="st3 st20 st21">t</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 679.96 21.8899)" class="st3 st20 st21">L3: </text>
+	<text transform="matrix(1 0 0 1 716.9 21.8899)" class="st3 st20 st21">P</text>
+	<text transform="matrix(1 0 0 1 730.69 21.8899)" class="st3 st20 st21">r</text>
+	<text transform="matrix(1 0 0 1 739.16 21.8899)" class="st3 st20 st21">eliminary Design</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1261.96 21.8899)" class="st3 st20 st21">L5: </text>
+	<text transform="matrix(1 0 0 1 1298.7999 21.8899)" class="st3 st20 st21">W</text>
+	<text transform="matrix(1 0 0 1 1320.2799 21.8899)" class="st3 st20 st21">o</text>
+	<text transform="matrix(1 0 0 1 1333.98 21.8899)" class="st3 st20 st21">r</text>
+	<text transform="matrix(1 0 0 1 1342.5599 21.8899)" class="st3 st20 st21">k</text>
+	<text transform="matrix(1 0 0 1 1355.38 21.8899)" class="st3 st20 st21">fl</text>
+	<text transform="matrix(1 0 0 1 1368.5299 21.8899)" class="st3 st20 st21">o</text>
+	<text transform="matrix(1 0 0 1 1382.5499 21.8899)" class="st3 st20 st21">w </text>
+	<text transform="matrix(1 0 0 1 1407.1399 21.8899)" class="st3 st20 st21">D</text>
+	<text transform="matrix(1 0 0 1 1424.25 21.8899)" class="st3 st20 st21">e</text>
+	<text transform="matrix(1 0 0 1 1437.25 21.8899)" class="st3 st20 st21">s</text>
+	<text transform="matrix(1 0 0 1 1447.08 21.8899)" class="st3 st20 st21">i</text>
+	<text transform="matrix(1 0 0 1 1452.61 21.8899)" class="st3 st20 st21">g</text>
+	<text transform="matrix(1 0 0 1 1465.46 21.8899)" class="st3 st20 st21">n</text>
+</g>
+<text transform="matrix(1 0 0 1 103.87 50.28)" class="st3 st20 st21">C</text>
+<text transform="matrix(1 0 0 1 116.93 50.28)" class="st3 st20 st21">ompl</text>
+<text transform="matrix(1 0 0 1 166.22 50.28)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 177.55 50.28)" class="st3 st20 st21">te wh</text>
+<text transform="matrix(1 0 0 1 229.87 50.28)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 241.03 50.28)" class="st3 st20 st21">n a </text>
+<text transform="matrix(1 0 0 1 275.59 50.28)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 285.47 50.28)" class="st3 st20 st21">on</text>
+<text transform="matrix(1 0 0 1 310.22 50.28)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 320.25 50.28)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 325.38 50.28)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 334.12 50.28)" class="st3 st20 st21">e </text>
+<text transform="matrix(1 0 0 1 103.88 79.0801)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 116.03 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 127.64 79.0801)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 136.38 79.0801)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 146.26 79.0801)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 153.3 79.0801)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 158.17 79.0801)" class="st3 st20 st21">p</text>
+<text transform="matrix(1 0 0 1 170.43 79.0801)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 177.15 79.0801)" class="st3 st20 st21">ion of </text>
+<text transform="matrix(1 0 0 1 235.71 79.0801)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 242.38 79.0801)" class="st3 st20 st21">he </text>
+<text transform="matrix(1 0 0 1 271.59 79.0801)" class="st3 st20 st21">f</text>
+<text transform="matrix(1 0 0 1 277.37 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 288.6 79.0801)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 299.24 79.0801)" class="st3 st20 st21">tu</text>
+<text transform="matrix(1 0 0 1 318.03 79.0801)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 325.08 79.0801)" class="st3 st20 st21">e </text>
+<text transform="matrix(1 0 0 1 341.79 79.0801)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 346.92 79.0801)" class="st3 st20 st21">s </text>
+<text transform="matrix(1 0 0 1 103.89 107.8799)" class="st3 st20 st21">w</text>
+<text transform="matrix(1 0 0 1 120.6 107.8799)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 127.63 107.8799)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 132.64 107.8799)" class="st3 st20 st21">tt</text>
+<text transform="matrix(1 0 0 1 145.44 107.8799)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 156.6 107.8799)" class="st3 st20 st21">n and </text>
+<text transform="matrix(1 0 0 1 215.78 107.8799)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 226.07 107.8799)" class="st3 st20 st21">gr</text>
+<text transform="matrix(1 0 0 1 244.51 107.8799)" class="st3 st20 st21">ee</text>
+<text transform="matrix(1 0 0 1 267.21 107.8799)" class="st3 st20 st21">d u</text>
+<text transform="matrix(1 0 0 1 297.26 107.8799)" class="st3 st20 st21">p</text>
+<text transform="matrix(1 0 0 1 309.64 107.8799)" class="st3 st20 st21">o</text>
+<text transform="matrix(1 0 0 1 321.9 107.8799)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 334.46 107.8799)" class="st3 st20 st21">.</text>
+<text transform="matrix(1 0 0 1 679.96 50.28)" class="st3 st20 st21">C</text>
+<text transform="matrix(1 0 0 1 693.02 50.28)" class="st3 st20 st21">ompl</text>
+<text transform="matrix(1 0 0 1 742.31 50.28)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 753.64 50.28)" class="st3 st20 st21">te wh</text>
+<text transform="matrix(1 0 0 1 805.96 50.28)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 817.12 50.28)" class="st3 st20 st21">n a </text>
+<text transform="matrix(1 0 0 1 851.6801 50.28)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 860.32 50.28)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 865.19 50.28)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 877.14 50.28)" class="st3 st20 st21">gle </text>
+<text transform="matrix(1 0 0 1 679.97 79.0801)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 692.12 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 703.73 79.0801)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 712.37 79.0801)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 717 79.0801)" class="st3 st20 st21">g</text>
+<text transform="matrix(1 0 0 1 728.38 79.0801)" class="st3 st20 st21">n di</text>
+<text transform="matrix(1 0 0 1 763.49 79.0801)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 770.54 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 781.9 79.0801)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 792.46 79.0801)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 799.17 79.0801)" class="st3 st20 st21">ion has </text>
+<text transform="matrix(1 0 0 1 871.94 79.0801)" class="st3 st20 st21">b</text>
+<text transform="matrix(1 0 0 1 884.35 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 895.7 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 906.86 79.0801)" class="st3 st20 st21">n </text>
+<text transform="matrix(1 0 0 1 679.98 107.8799)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 691.41 107.8799)" class="st3 st20 st21">x</text>
+<text transform="matrix(1 0 0 1 701.17 107.8799)" class="st3 st20 st21">plo</text>
+<text transform="matrix(1 0 0 1 730.81 107.8799)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 737.87 107.8799)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 749.22 107.8799)" class="st3 st20 st21">d and vali</text>
+<text transform="matrix(1 0 0 1 839.48 107.8799)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 851.75 107.8799)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 862.38 107.8799)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 868.88 107.8799)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 880.23 107.8799)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 892.47 107.8799)" class="st3 st20 st21">.</text>
+<g>
+	<text transform="matrix(1 0 0 1 774.96 548.14)" class="st3 st20 st21">L4: </text>
+	<text transform="matrix(1 0 0 1 812.37 548.14)" class="st3 st20 st21">P</text>
+	<text transform="matrix(1 0 0 1 826.15 548.14)" class="st3 st20 st21">r</text>
+	<text transform="matrix(1 0 0 1 834.63 548.14)" class="st3 st20 st21">o</text>
+	<text transform="matrix(1 0 0 1 848.49 548.14)" class="st3 st20 st21">t</text>
+	<text transform="matrix(1 0 0 1 856.1 548.14)" class="st3 st20 st21">o</text>
+	<text transform="matrix(1 0 0 1 869.96 548.14)" class="st3 st20 st21">t</text>
+	<text transform="matrix(1 0 0 1 878.1801 548.14)" class="st3 st20 st21">y</text>
+	<text transform="matrix(1 0 0 1 890.24 548.14)" class="st3 st20 st21">p</text>
+	<text transform="matrix(1 0 0 1 904.1 548.14)" class="st3 st20 st21">e*</text>
+</g>
+<text transform="matrix(1 0 0 1 642.78 578.3401)" class="st3 st20 st21">C</text>
+<text transform="matrix(1 0 0 1 655.84 578.3401)" class="st3 st20 st21">ompl</text>
+<text transform="matrix(1 0 0 1 705.13 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 716.46 578.3401)" class="st3 st20 st21">te wh</text>
+<text transform="matrix(1 0 0 1 768.78 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 779.9401 578.3401)" class="st3 st20 st21">n an int</text>
+<text transform="matrix(1 0 0 1 850.83 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 861.9901 578.3401)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 869.05 578.3401)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 879.8 578.3401)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 890.36 578.3401)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 897.08 578.3401)" class="st3 st20 st21">ion </text>
+<text transform="matrix(1 0 0 1 656.5 607.14)" class="st3 st20 st21">p</text>
+<text transform="matrix(1 0 0 1 668.64 607.14)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 675.7 607.14)" class="st3 st20 st21">o</text>
+<text transform="matrix(1 0 0 1 688.08 607.14)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 694.58 607.14)" class="st3 st20 st21">o</text>
+<text transform="matrix(1 0 0 1 706.97 607.14)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 714.05 607.14)" class="st3 st20 st21">y</text>
+<text transform="matrix(1 0 0 1 724.7 607.14)" class="st3 st20 st21">p</text>
+<text transform="matrix(1 0 0 1 737.09 607.14)" class="st3 st20 st21">e has </text>
+<text transform="matrix(1 0 0 1 791.32 607.14)" class="st3 st20 st21">b</text>
+<text transform="matrix(1 0 0 1 803.73 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 815.08 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 826.2401 607.14)" class="st3 st20 st21">n bu</text>
+<text transform="matrix(1 0 0 1 868.8 607.14)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 873.7401 607.14)" class="st3 st20 st21">l</text>
+<text transform="matrix(1 0 0 1 879.11 607.14)" class="st3 st20 st21">t and </text>
+<text transform="matrix(1 0 0 1 839.05 635.9402)" class="st3 st20 st21">vali</text>
+<text transform="matrix(1 0 0 1 870.46 635.9402)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 882.72 635.9402)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 893.36 635.9402)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 899.86 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 911.21 635.9402)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 923.4501 635.9402)" class="st3 st20 st21">.</text>
+<text transform="matrix(1 0 0 1 1261.87 50.28)" class="st3 st20 st21">C</text>
+<text transform="matrix(1 0 0 1 1274.9301 50.28)" class="st3 st20 st21">ompl</text>
+<text transform="matrix(1 0 0 1 1324.22 50.28)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1335.55 50.28)" class="st3 st20 st21">te wh</text>
+<text transform="matrix(1 0 0 1 1387.87 50.28)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1399.03 50.28)" class="st3 st20 st21">n a </text>
+<text transform="matrix(1 0 0 1 1433.59 50.28)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 1442.23 50.28)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 1447.1 50.28)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 1459.05 50.28)" class="st3 st20 st21">gle </text>
+<text transform="matrix(1 0 0 1 1261.88 79.0801)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 1274.03 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1285.64 79.0801)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 1294.28 79.0801)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 1298.91 79.0801)" class="st3 st20 st21">g</text>
+<text transform="matrix(1 0 0 1 1310.29 79.0801)" class="st3 st20 st21">n </text>
+<text transform="matrix(1 0 0 1 1328.38 79.0801)" class="st3 st20 st21">w</text>
+<text transform="matrix(1 0 0 1 1345.1799 79.0801)" class="st3 st20 st21">o</text>
+<text transform="matrix(1 0 0 1 1357.45 79.0801)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 1364.6899 79.0801)" class="st3 st20 st21">k</text>
+<text transform="matrix(1 0 0 1 1375.85 79.0801)" class="st3 st20 st21">fl</text>
+<text transform="matrix(1 0 0 1 1386.8199 79.0801)" class="st3 st20 st21">o</text>
+<text transform="matrix(1 0 0 1 1399.45 79.0801)" class="st3 st20 st21">w has </text>
+<text transform="matrix(1 0 0 1 1459.2 79.0801)" class="st3 st20 st21">b</text>
+<text transform="matrix(1 0 0 1 1471.61 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1482.96 79.0801)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1494.12 79.0801)" class="st3 st20 st21">n </text>
+<text transform="matrix(1 0 0 1 1261.89 107.8799)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 1270.5599 107.8799)" class="st3 st20 st21">p</text>
+<text transform="matrix(1 0 0 1 1282.9399 107.8799)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1294.29 107.8799)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 1304.3199 107.8799)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 1309.39 107.8799)" class="st3 st20 st21">fi</text>
+<text transform="matrix(1 0 0 1 1319.95 107.8799)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1331.3 107.8799)" class="st3 st20 st21">d in d</text>
+<text transform="matrix(1 0 0 1 1384.17 107.8799)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1395.5 107.8799)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 1402.46 107.8799)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 1413.3 107.8799)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 1418.25 107.8799)" class="st3 st20 st21">l</text>
+<text transform="matrix(1 0 0 1 1423.58 107.8799)" class="st3 st20 st21">.</text>
+<g>
+	<text transform="matrix(1 0 0 1 1339.96 548.14)" class="st3 st20 st21">L6: </text>
+	<text transform="matrix(1 0 0 1 1482.5599 548.14)" class="st3 st20 st21">c*</text>
+	<text transform="matrix(1 0 0 1 1371.7697 548.6003)" class="st3 st20 st21">Redline Spec</text>
+</g>
+<text transform="matrix(1 0 0 1 1231.9 578.3401)" class="st3 st20 st21">C</text>
+<text transform="matrix(1 0 0 1 1244.9601 578.3401)" class="st3 st20 st21">ompl</text>
+<text transform="matrix(1 0 0 1 1294.25 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1305.5801 578.3401)" class="st3 st20 st21">te wh</text>
+<text transform="matrix(1 0 0 1 1357.9 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1369.0601 578.3401)" class="st3 st20 st21">n </text>
+<text transform="matrix(1 0 0 1 1387.15 578.3401)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 1395.89 578.3401)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 1405.78 578.3401)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 1412.8301 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1424.1801 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1435.3401 578.3401)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 1447.9401 578.3401)" class="st3 st20 st21">s </text>
+<text transform="matrix(1 0 0 1 1462.13 578.3401)" class="st3 st20 st21">f</text>
+<text transform="matrix(1 0 0 1 1467.91 578.3401)" class="st3 st20 st21">or a </text>
+<text transform="matrix(1 0 0 1 1245.8301 607.14)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 1257.98 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1269.59 607.14)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 1278.23 607.14)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 1282.86 607.14)" class="st3 st20 st21">g</text>
+<text transform="matrix(1 0 0 1 1294.24 607.14)" class="st3 st20 st21">n </text>
+<text transform="matrix(1 0 0 1 1312.3301 607.14)" class="st3 st20 st21">w</text>
+<text transform="matrix(1 0 0 1 1329.13 607.14)" class="st3 st20 st21">o</text>
+<text transform="matrix(1 0 0 1 1341.4 607.14)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 1348.65 607.14)" class="st3 st20 st21">k</text>
+<text transform="matrix(1 0 0 1 1359.8101 607.14)" class="st3 st20 st21">fl</text>
+<text transform="matrix(1 0 0 1 1370.77 607.14)" class="st3 st20 st21">o</text>
+<text transform="matrix(1 0 0 1 1383.4 607.14)" class="st3 st20 st21">w h</text>
+<text transform="matrix(1 0 0 1 1418.12 607.14)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 1428.73 607.14)" class="st3 st20 st21">v</text>
+<text transform="matrix(1 0 0 1 1439.46 607.14)" class="st3 st20 st21">e </text>
+<text transform="matrix(1 0 0 1 1456.16 607.14)" class="st3 st20 st21">b</text>
+<text transform="matrix(1 0 0 1 1468.5701 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1479.92 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1491.0801 607.14)" class="st3 st20 st21">n </text>
+<text transform="matrix(1 0 0 1 1255.9 635.9402)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 1264.5601 635.9402)" class="st3 st20 st21">p</text>
+<text transform="matrix(1 0 0 1 1276.9501 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1288.3 635.9402)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 1299.41 635.9402)" class="st3 st20 st21">’</text>
+<text transform="matrix(1 0 0 1 1301.62 635.9402)" class="st3 st20 st21">d </text>
+<text transform="matrix(1 0 0 1 1319.38 635.9402)" class="st3 st20 st21">f</text>
+<text transform="matrix(1 0 0 1 1325.16 635.9402)" class="st3 st20 st21">or impl</text>
+<text transform="matrix(1 0 0 1 1391.85 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1403.01 635.9402)" class="st3 st20 st21">m</text>
+<text transform="matrix(1 0 0 1 1422.67 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 1433.8301 635.9402)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 1446.3101 635.9402)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 1453.27 635.9402)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 1463.9 635.9402)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 1470.62 635.9402)" class="st3 st20 st21">io</text>
+<text transform="matrix(1 0 0 1 1487.76 635.9402)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 1500.3101 635.9402)" class="st3 st20 st21">.</text>
+<text transform="matrix(1 0 0 1 135.49 578.3401)" class="st3 st20 st21">C</text>
+<text transform="matrix(1 0 0 1 148.55 578.3401)" class="st3 st20 st21">ompl</text>
+<text transform="matrix(1 0 0 1 197.84 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 209.17 578.3401)" class="st3 st20 st21">te wh</text>
+<text transform="matrix(1 0 0 1 261.49 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 272.65 578.3401)" class="st3 st20 st21">n </text>
+<text transform="matrix(1 0 0 1 290.74 578.3401)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 299.48 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 310.93 578.3401)" class="st3 st20 st21">v</text>
+<text transform="matrix(1 0 0 1 321.65 578.3401)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 332.81 578.3401)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 339.87 578.3401)" class="st3 st20 st21">al</text>
+<text transform="matrix(1 0 0 1 94.9 607.14)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 107.04 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 118.66 607.14)" class="st3 st20 st21">s</text>
+<text transform="matrix(1 0 0 1 127.3 607.14)" class="st3 st20 st21">i</text>
+<text transform="matrix(1 0 0 1 131.93 607.14)" class="st3 st20 st21">g</text>
+<text transform="matrix(1 0 0 1 143.3 607.14)" class="st3 st20 st21">n di</text>
+<text transform="matrix(1 0 0 1 178.41 607.14)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 185.47 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 196.82 607.14)" class="st3 st20 st21">c</text>
+<text transform="matrix(1 0 0 1 207.38 607.14)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 214.1 607.14)" class="st3 st20 st21">io</text>
+<text transform="matrix(1 0 0 1 231.24 607.14)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 243.83 607.14)" class="st3 st20 st21">s h</text>
+<text transform="matrix(1 0 0 1 270.52 607.14)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 281.13 607.14)" class="st3 st20 st21">v</text>
+<text transform="matrix(1 0 0 1 291.86 607.14)" class="st3 st20 st21">e </text>
+<text transform="matrix(1 0 0 1 308.56 607.14)" class="st3 st20 st21">b</text>
+<text transform="matrix(1 0 0 1 320.97 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 332.32 607.14)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 343.48 607.14)" class="st3 st20 st21">n</text>
+<text transform="matrix(1 0 0 1 133.26 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 144.68 635.9402)" class="st3 st20 st21">x</text>
+<text transform="matrix(1 0 0 1 154.45 635.9402)" class="st3 st20 st21">plo</text>
+<text transform="matrix(1 0 0 1 184.09 635.9402)" class="st3 st20 st21">r</text>
+<text transform="matrix(1 0 0 1 191.14 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 202.5 635.9402)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 215.17 635.9402)" class="st3 st20 st21">, </text>
+<text transform="matrix(1 0 0 1 224.05 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 235.49 635.9402)" class="st3 st20 st21">va</text>
+<text transform="matrix(1 0 0 1 256.81 635.9402)" class="st3 st20 st21">l</text>
+<text transform="matrix(1 0 0 1 261.87 635.9402)" class="st3 st20 st21">u</text>
+<text transform="matrix(1 0 0 1 274.25 635.9402)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 284.89 635.9402)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 291.39 635.9402)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 302.74 635.9402)" class="st3 st20 st21">d and </text>
+<text transform="matrix(1 0 0 1 253.79 664.74)" class="st3 st20 st21">elimin</text>
+<text transform="matrix(1 0 0 1 311.99 664.74)" class="st3 st20 st21">a</text>
+<text transform="matrix(1 0 0 1 322.62 664.74)" class="st3 st20 st21">t</text>
+<text transform="matrix(1 0 0 1 329.13 664.74)" class="st3 st20 st21">e</text>
+<text transform="matrix(1 0 0 1 340.48 664.74)" class="st3 st20 st21">d</text>
+<text transform="matrix(1 0 0 1 352.72 664.74)" class="st3 st20 st21">.</text>
+<g>
+	<text transform="matrix(1 1.745328e-03 -1.745328e-03 1 179.05 548.5294)" class="st3 st20 st21">Exploratory Design</text>
+</g>
+<text transform="matrix(1 0 0 1 1340 789.6699)" class="st3 st22 st23">*Step n</text>
+<text transform="matrix(1 0 0 1 1375.2 789.6699)" class="st3 st22 st23">o</text>
+<text transform="matrix(1 0 0 1 1381.59 789.6699)" class="st3 st22 st23">t a</text>
+<text transform="matrix(1 0 0 1 1393.5699 789.6699)" class="st3 st22 st23">l</text>
+<text transform="matrix(1 0 0 1 1396.54 789.6699)" class="st3 st22 st23">w</text>
+<text transform="matrix(1 0 0 1 1405 789.6699)" class="st3 st22 st23">a</text>
+<text transform="matrix(1 0 0 1 1410.47 789.6699)" class="st3 st22 st23">y</text>
+<text transform="matrix(1 0 0 1 1416.27 789.6699)" class="st3 st22 st23">s n</text>
+<text transform="matrix(1 0 0 1 1430 789.6699)" class="st3 st22 st23">e</text>
+<text transform="matrix(1 0 0 1 1435.89 789.6699)" class="st3 st22 st23">c</text>
+<text transform="matrix(1 0 0 1 1440.9301 789.6699)" class="st3 st22 st23">e</text>
+<text transform="matrix(1 0 0 1 1446.9301 789.6699)" class="st3 st22 st23">s</text>
+<text transform="matrix(1 0 0 1 1451.66 789.6699)" class="st3 st22 st23">s</text>
+<text transform="matrix(1 0 0 1 1456.37 789.6699)" class="st3 st22 st23">a</text>
+<text transform="matrix(1 0 0 1 1462.0601 789.6699)" class="st3 st22 st23">r</text>
+<text transform="matrix(1 0 0 1 1466.48 789.6699)" class="st3 st22 st23">y</text>
+<text transform="matrix(1 0 0 1 1471.48 789.6699)" class="st3 st22 st23">. </text>
+<text transform="matrix(1 0 0 1 1476.3101 789.6699)" class="st3 st22 st23">De</text>
+<text transform="matrix(1 0 0 1 1490.09 789.6699)" class="st3 st22 st23">c</text>
+<text transform="matrix(1 0 0 1 1495.22 789.6699)" class="st3 st22 st23">id</text>
+<text transform="matrix(1 0 0 1 1504.2 789.6699)" class="st3 st22 st23">e</text>
+<text transform="matrix(1 0 0 1 1510.1 789.6699)" class="st3 st22 st23">d </text>
+<text transform="matrix(1 0 0 1 1519.16 789.6699)" class="st3 st22 st23">f</text>
+<text transform="matrix(1 0 0 1 1522.36 789.6699)" class="st3 st22 st23">e</text>
+<text transform="matrix(1 0 0 1 1528.1799 789.6699)" class="st3 st22 st23">a</text>
+<text transform="matrix(1 0 0 1 1533.78 789.6699)" class="st3 st22 st23">tu</text>
+<text transform="matrix(1 0 0 1 1543.64 789.6699)" class="st3 st22 st23">r</text>
+<text transform="matrix(1 0 0 1 1547.55 789.6699)" class="st3 st22 st23">e</text>
+<text transform="matrix(1 0 0 1 1553.5701 789.6699)" class="st3 st22 st23">-</text>
+<text transform="matrix(1 0 0 1 1557.29 789.6699)" class="st3 st22 st23">b</text>
+<text transform="matrix(1 0 0 1 1563.66 789.6699)" class="st3 st22 st23">y</text>
+<text transform="matrix(1 0 0 1 1569.23 789.6699)" class="st3 st22 st23">-</text>
+<text transform="matrix(1 0 0 1 1573.0601 789.6699)" class="st3 st22 st23">f</text>
+<text transform="matrix(1 0 0 1 1576.26 789.6699)" class="st3 st22 st23">e</text>
+<text transform="matrix(1 0 0 1 1582.08 789.6699)" class="st3 st22 st23">a</text>
+<text transform="matrix(1 0 0 1 1587.6899 789.6699)" class="st3 st22 st23">tu</text>
+<text transform="matrix(1 0 0 1 1597.54 789.6699)" class="st3 st22 st23">r</text>
+<text transform="matrix(1 0 0 1 1601.45 789.6699)" class="st3 st22 st23">e.</text>
+</svg>

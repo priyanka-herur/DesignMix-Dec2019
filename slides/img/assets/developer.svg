@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #f6c443;
+      }
+
+      .cls-3 {
+        fill: #404ed6;
+      }
+    </style>
+  </defs>
+  <title>developer</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <line class="cls-1" x1="13.5" x2="13.5" y2="27"/>
+        <line class="cls-1" x1="13.5" x2="13.5" y2="27"/>
+        <line class="cls-1" x1="18.67" y1="1.03" x2="8.33" y2="25.97"/>
+        <line class="cls-1" x1="8.33" y1="1.03" x2="18.67" y2="25.97"/>
+        <line class="cls-1" x1="1.03" y1="8.33" x2="25.97" y2="18.67"/>
+        <line class="cls-1" x1="25.97" y1="8.33" x2="1.03" y2="18.67"/>
+        <line class="cls-1" x1="3.95" y1="3.95" x2="23.05" y2="23.05"/>
+        <line class="cls-1" x1="23.05" y1="3.95" x2="3.95" y2="23.05"/>
+        <line class="cls-1" x1="27" y1="13.5" y2="13.5"/>
+        <circle class="cls-2" cx="13.5" cy="13.5" r="10"/>
+        <circle class="cls-3" cx="13.5" cy="13.5" r="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

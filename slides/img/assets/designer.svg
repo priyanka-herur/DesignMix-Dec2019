@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.98" height="23.98" viewBox="0 0 23.98 23.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #da6271;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>designer</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <path id="pencil" class="cls-1" d="M6.36,21.85,1.14,23.46a.5.5,0,0,1-.62-.62l1.61-5.22a2.42,2.42,0,0,1,.62-1L17.87,1.46a3.29,3.29,0,0,1,4.65,4.65L7.39,21.23A2.42,2.42,0,0,1,6.36,21.85Z"/>
+        <line class="cls-2" x1="15.48" y1="4.62" x2="19.48" y2="8.62"/>
+      </g>
+    </g>
+  </g>
+</svg>
