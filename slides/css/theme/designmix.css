@@ -5,28 +5,30 @@
  */
 
 
-@font-face {
-  font-family: 'Source Code Pro';
-  src: url("../../lib/font/adobe/sourcecodepro-regular-webfont.eot");
-  src: url("../../lib/font/adobe/sourcecodepro-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/adobe/sourcecodepro-regular-webfont.woff") format("woff"), url("../../lib/font/adobe/sourcecodepro-regular-webfont.ttf") format("truetype"), url("../../lib/font/adobe/sourcecodepro-regular-webfont.svg#SourceCodePro") format("svg");
-  font-weight: normal;
-  font-style: normal; }
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 @font-face {
     font-family: NeueMachina;
-    font-weight: light;
-    src: url("../../lib/font/NeueMachina-Light.otf") format("opentype");
+    font-weight: 300;
+    src: url("https://db.onlinewebfonts.com/t/7665d038ff42da05b62f1a2faefbadea.woff2") format("woff2"),
+         url("https://db.onlinewebfonts.com/t/7665d038ff42da05b62f1a2faefbadea.woff") format("woff"),
+         url("https://db.onlinewebfonts.com/t/7665d038ff42da05b62f1a2faefbadea.ttf") format("truetype");
 }
 
 @font-face {
     font-family: NeueMachina;
-    font-weight: regular;
-    src: url("../../lib/font/NeueMachina-Regular.otf") format("opentype");
+    font-weight: 400;
+    src: url("https://db.onlinewebfonts.com/t/38d41072aa88a50711d4d50dd0d50f6b.woff2") format("woff2"),
+         url("https://db.onlinewebfonts.com/t/38d41072aa88a50711d4d50dd0d50f6b.woff") format("woff"),
+         url("https://db.onlinewebfonts.com/t/38d41072aa88a50711d4d50dd0d50f6b.ttf") format("truetype");
 }
+
 @font-face {
     font-family: NeueMachina;
-    font-weight: bold;
-    src: url("../../lib/font/NeueMachina-Ultrabold.otf") format("opentype");
+    font-weight: 800;
+    src: url("https://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff2") format("woff2"),
+         url("https://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff") format("woff"),
+         url("https://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.ttf") format("truetype");
 }
 
 
